@@ -1470,7 +1470,7 @@ h1.intro-header::before {
 }
 @media (max-width: 900px) {
   .home-content {
-    height: 138vh;
+    height: 148vh;
   }
 }
 @media (max-width: 400px) {
@@ -1478,7 +1478,7 @@ h1.intro-header::before {
     top: 50% !important;
   }
   .home-content {
-    height: 115vh;
+    height: 125vh;
   }
 }
 .home-content .contents {
